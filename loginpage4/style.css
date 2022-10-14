@@ -80,6 +80,7 @@ p {
     background: #5d75ab;
     color: #fff;
     padding: 1rem;
+    margin-right: 10px;
 }
 
 .icons .fa-twitter {
@@ -87,6 +88,7 @@ p {
     background: #1da1f2;
     color: #fff;
     padding: 1rem;
+    margin-right: 10px;
 }
 
 .icons .fa-google {
